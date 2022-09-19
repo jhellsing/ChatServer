@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\jesus\jesus\bin\Debug\jesus.exe.config
+C:\Users\ADMIN\source\repos\jesus\jesus\bin\Debug\jesus.exe
+C:\Users\ADMIN\source\repos\jesus\jesus\bin\Debug\jesus.pdb
+C:\Users\ADMIN\source\repos\jesus\jesus\obj\Debug\jesus.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\jesus\jesus\obj\Debug\jesus.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\jesus\jesus\obj\Debug\jesus.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\jesus\jesus\obj\Debug\jesus.exe
+C:\Users\ADMIN\source\repos\jesus\jesus\obj\Debug\jesus.pdb
+C:\Users\Nikityara\Desktop\jesus\jesus\bin\Debug\jesus.exe.config
+C:\Users\Nikityara\Desktop\jesus\jesus\bin\Debug\jesus.exe
+C:\Users\Nikityara\Desktop\jesus\jesus\bin\Debug\jesus.pdb
+C:\Users\Nikityara\Desktop\jesus\jesus\obj\Debug\jesus.csproj.AssemblyReference.cache
+C:\Users\Nikityara\Desktop\jesus\jesus\obj\Debug\jesus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikityara\Desktop\jesus\jesus\obj\Debug\jesus.csproj.CoreCompileInputs.cache
+C:\Users\Nikityara\Desktop\jesus\jesus\obj\Debug\jesus.exe
+C:\Users\Nikityara\Desktop\jesus\jesus\obj\Debug\jesus.pdb
