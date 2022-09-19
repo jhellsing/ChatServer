@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\gospodi\gospodi\bin\Debug\gospodi.exe.config
+C:\Users\ADMIN\source\repos\gospodi\gospodi\bin\Debug\gospodi.exe
+C:\Users\ADMIN\source\repos\gospodi\gospodi\bin\Debug\gospodi.pdb
+C:\Users\ADMIN\source\repos\gospodi\gospodi\obj\Debug\gospodi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\gospodi\gospodi\obj\Debug\gospodi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\gospodi\gospodi\obj\Debug\gospodi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\gospodi\gospodi\obj\Debug\gospodi.exe
+C:\Users\ADMIN\source\repos\gospodi\gospodi\obj\Debug\gospodi.pdb
+C:\Users\Nikityara\Desktop\gospodi\gospodi\bin\Debug\gospodi.exe.config
+C:\Users\Nikityara\Desktop\gospodi\gospodi\bin\Debug\gospodi.exe
+C:\Users\Nikityara\Desktop\gospodi\gospodi\bin\Debug\gospodi.pdb
+C:\Users\Nikityara\Desktop\gospodi\gospodi\obj\Debug\gospodi.csproj.AssemblyReference.cache
+C:\Users\Nikityara\Desktop\gospodi\gospodi\obj\Debug\gospodi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikityara\Desktop\gospodi\gospodi\obj\Debug\gospodi.csproj.CoreCompileInputs.cache
+C:\Users\Nikityara\Desktop\gospodi\gospodi\obj\Debug\gospodi.exe
+C:\Users\Nikityara\Desktop\gospodi\gospodi\obj\Debug\gospodi.pdb
